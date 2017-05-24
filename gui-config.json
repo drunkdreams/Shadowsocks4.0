@@ -1,0 +1,27 @@
+{
+"configs" : [
+  {
+"server" : "138.128.222.74",
+"server_port" : 8989,
+"password" : "055356",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "138.128.222.74",
+"server_port" : 9001,
+"password" : "587634",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+
+],
+"strategy" : null,
+"index" : 0,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : "https://github.com/clowwindy/gfwlist2pac/blob/master/test/proxy.pac",
+"useOnlinePac" : false,
+"availabilityStatistics" : false}

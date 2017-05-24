@@ -1,0 +1,13 @@
+[2017-04-18 18:46:29] Shadowsocks started
+[2017-04-18 18:51:11] Shadowsocks started
+[2017-04-18 18:53:18] Shadowsocks started
+[2017-04-18 19:33:48] 138.128.222.74:8989 timed out
+[2017-04-18 22:05:25] 138.128.222.74:8989 timed out
+[2017-04-19 01:33:27] 138.128.222.74:8989 timed out
+[2017-04-19 01:33:32] 138.128.222.74:8989 timed out
+[2017-04-19 01:35:27] 138.128.222.74:8989 timed out
+[2017-05-12 15:29:05] Shadowsocks started
+[2017-05-24 09:10:05] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2017-05-24 09:10:16] Shadowsocks started
